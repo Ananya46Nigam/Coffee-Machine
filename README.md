@@ -12,3 +12,6 @@ This project simulates a virtual yet very real coffee machine. It makes three ty
 Our coffee machine looks something like this :D
 
 ![image](https://user-images.githubusercontent.com/80421780/187034908-d41a2ba0-9c29-4dd9-84dd-5e24bcef116a.png)
+
+
+![image](https://user-images.githubusercontent.com/80421780/187034986-666c192a-a32c-463e-9fd2-73a4485a8814.png)
